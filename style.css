@@ -1,0 +1,83 @@
+.headerOne {
+    color: blue;
+    font-size: 1cm;
+    font-family: 'Zen Dots', cursive;
+
+}
+
+.logo-S {
+
+    color: blue;
+    font-family: 'Zen Dots', cursive;
+}
+
+.har {
+
+    color: black;
+    font-family: 'Zen Dots', cursive;
+}
+
+.logo-Q {
+
+
+    color: blue;
+    font-family: 'Zen Dots', cursive;
+}
+
+.bar {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+
+}
+
+.navbar-brand {
+    color: gold;
+}
+
+
+.sk2 {
+    background-color: grey;
+    padding: 7% 15% 7%;
+}
+
+.banner {
+    text-align: center;
+}
+
+.heading-crypto {
+    color: darkblue;
+}
+
+.tulisanPutih {
+    color: white;
+}
+
+
+.container {
+    color: goldenrod;
+    font-size: 30pt;
+}
+
+.sk3 {
+    background-color: gray
+    padding 7% 15% 7%;
+    text-align: center;
+    
+}
+
+.sk5 {
+    background-color: rgb(184, 182, 165);
+    padding: 5% 20% 5%;
+    text-align: center;
+    color: white; 
+}
+
+.footer{
+
+    text-align: center;
+    font-size: xx-large;
+}
